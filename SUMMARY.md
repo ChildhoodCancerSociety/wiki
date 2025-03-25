@@ -12,3 +12,4 @@
   * [Making a New Feature](dev-at-ccs/documentation/making-a-new-feature.md)
   * [Getting Data](dev-at-ccs/documentation/getting-data.md)
   * [Code Testing](dev-at-ccs/documentation/code-testing.md)
+* [Git/GitHub Workflow](dev-at-ccs/git-github-workflow.md)
